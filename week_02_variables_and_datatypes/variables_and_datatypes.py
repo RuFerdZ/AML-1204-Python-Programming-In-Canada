@@ -1,5 +1,7 @@
 # Introduction to variables and datatypes
 
+# VARIABLES ARE DEFINED IN SNAKE CASE - this_is_a_variable
+
 # Variables
 # Variables are used to store values
 # Variables are created when a value is assigned to it
@@ -14,6 +16,8 @@
 
 # Variable assignment
 x = 5
+y = True
+z = 'Hello World'
 
 # Daa types
 # Python has the following data types built-in by default, in these categories:
