@@ -1,3 +1,5 @@
+# Author: Rusiru Fernando
+
 # Task 2-1: Printing a message that has been assigned to a variable
 message_01 = "Welcome to week 03 assignment."
 print(message_01)

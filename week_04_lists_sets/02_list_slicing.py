@@ -1,3 +1,5 @@
+# Author: Rusiru Fernando
+
 # get range of elements from list
 my_list_1 = [1, 2, 3, 4, 5]
 

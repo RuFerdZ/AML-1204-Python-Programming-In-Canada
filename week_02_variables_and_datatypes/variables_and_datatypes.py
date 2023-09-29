@@ -1,3 +1,4 @@
+# Author: Rusiru Fernando
 # Introduction to variables and datatypes
 
 # VARIABLES ARE DEFINED IN SNAKE CASE - this_is_a_variable

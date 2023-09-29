@@ -1,3 +1,4 @@
+# Author: Rusiru Fernando
 # '*' operator is supported for lists - Union of given lists
 list_01 = [1, 2, 3, 4, 5]
 list_02 = [6, 7, 8, 9, 10]
