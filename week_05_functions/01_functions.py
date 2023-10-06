@@ -72,3 +72,9 @@ print(add(y=3, x=2))
 #     return a + b, a - b, a * b
 # x, y, z = add(2, 3)
 # print(x, y, z)
+
+
+# ==========================================
+# everything should be defined before calling - because of the interpreter
+# put all the functions at the top of the file
+# put all the calls at the bottom of the file
