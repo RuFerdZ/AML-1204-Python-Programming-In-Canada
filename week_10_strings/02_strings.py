@@ -37,3 +37,14 @@ print(my_string_4)  # "thiis a string"
 
 my_string_5 = "this is a \"string\""
 print(my_string_5)  # this is a "string"
+
+
+# exists in string
+# function: in
+if "i" in my_string_4:
+    print("\"i\" exists in my_string_4")
+
+# not exists in string
+# function: not in
+if "z" not in my_string_4:
+    print("\"z\" does not exist in my_string_4")
