@@ -21,3 +21,19 @@ while i < len(my_string_1):
 
 print()
 
+my_string_3 = "this\tis a string"
+print(my_string_3)  # this     is a string
+
+# \ escape character
+# \t tab
+# \n new line
+# \b backspace
+# \' single quote
+# \" double quote
+# \\ backslash
+
+my_string_4 = "this\bis a string"
+print(my_string_4)  # "thiis a string"
+
+my_string_5 = "this is a \"string\""
+print(my_string_5)  # this is a "string"
