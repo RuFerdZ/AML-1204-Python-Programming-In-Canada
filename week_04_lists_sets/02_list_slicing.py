@@ -4,6 +4,7 @@
 my_list_1 = [1, 2, 3, 4, 5]
 
 # format: list_name[start_index:end_index] - end_index is not included
+print(my_list_1[3:1])  # start index > end index
 print(my_list_1[1:3])  # get elements from index 1 to 3 (not including 3)
 print(my_list_1[1:])  # get elements from index 1 to end of list
 print(my_list_1[:3])  # get elements from start of list to index 3 (not including 3)

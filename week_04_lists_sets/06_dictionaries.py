@@ -21,7 +21,7 @@ dict_03 = {'name': 'John', 'age': 25, 'address': 'Colombo'}
 print(dict_03)
 
 # dictionary with duplicate keys
-dict_04 = {'name': 'John', 'age': 25, 'address': 'Colombo', 'name': 'Ellie'}  # duplicate keys are not allowed. prints only the last key-value pair
+dict_04 = {'name': 'John', 'age': 25, 9: 'Colombo', 'name': 'Ellie'}  # duplicate keys are not allowed. prints only the last key-value pair
 print(dict_04)
 
 # indexing in dictionary
